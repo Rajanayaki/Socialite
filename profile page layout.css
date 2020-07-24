@@ -1,0 +1,87 @@
+.container-fluid {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+h4 {
+		 color:#2b135b;
+		 font-weight: bold;
+		 font-family:'Bookman',serif;
+		 font-size:25px;		 
+}
+h5{
+	font-family:'Bookman',serif;
+	font-size:25px;		 
+}
+h2{
+	 letter-spacing: 3px;
+	 font-family: 'Alegreya Sans SC', sans-serif;
+}    
+p{
+	font-size:25px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding-left:10px;
+}
+hr{
+	border-color: #2b135b;
+}
+.purple-border textarea {
+    border: 1px solid #2b135b;
+}
+.purple-border .form-control:focus {
+    border: 1px solid #2b135b;
+    box-shadow: 0 0 0 0.2rem rgba(186, 104, 200, .25);
+}
+.menu{
+	position:relative;
+	right:5px;
+	border:2px solid #2b135b;
+	padding:20px;
+	
+}
+.whatsnew{
+	height:30%;
+	width:30%;
+}
+
+.buttons{
+	padding:2px;
+	margin-top:40px;
+	
+}
+.profilepicture{
+	padding:50px;
+}
+.tick{
+	max-height:10%;
+	max-width:10%;
+}
+.border{
+	border-radius:50%;
+	background-color:#2b135b;
+}
+.img-circle{
+	height:30%;
+	width:50%;
+}
+.button{
+	border-radius: 50px;
+	background-color: #2b135b;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+}
+.support{
+	background-color:#28bb97;
+}
+.glyphicon{
+	color:#2b135b;
+}
