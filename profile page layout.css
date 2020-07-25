@@ -46,6 +46,14 @@ td{
 	border:2px solid #2b135b;
 	padding:30px;
 }
+#username{
+	display:inline-block;
+}
+#hamburger{
+	color:white;
+	background-color:#2b135b;
+	float:right;
+}
 .whatsnew{
 	height:20%;
 	width:40%;	
@@ -61,6 +69,7 @@ td{
 .profilepicture{
 	padding:50px;
 }
+
 .tick{
 	max-height:10%;
 	max-width:10%;
@@ -88,4 +97,13 @@ td{
 }
 .glyphicon{
 	color:#2b135b;
+}
+.next {
+  background-color: #2b135b;
+  color: white;
+  padding:3%;
+ 
+}
+.round {
+  border-radius: 50%;
 }
